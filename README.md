@@ -23,3 +23,8 @@ https://fr.wikipedia.org/wiki/Pont_en_H
 Il nous faut un pont en H par moteur.
 
 Nous pouvons raccorder le mmontage à base de L298N
+
+Voir la doc. d'utilisation avec Arduino :
+https://wiki.mchobby.be/index.php?title=Pont-H_L298N
+
+
