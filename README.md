@@ -16,4 +16,10 @@ Faire en sorte que les chenilles ne touchent rien en surélevant le chassis.
  Relier les fils d'un des moteur à l'alimentation.
  Noter le sens de rotation.
  
+### Utilisation d'un pont en H
 
+https://fr.wikipedia.org/wiki/Pont_en_H
+
+Il nous faut un pont en H par moteur.
+
+Nous pouvons raccorder le mmontage à base de L298N
